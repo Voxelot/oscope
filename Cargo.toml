@@ -1,0 +1,12 @@
+[package]
+name = "oscope"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.18"
+nannou_laser = "0.18"
+nannou_audio = "0.18"
+fixed-vec-deque = "0.1"
